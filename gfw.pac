@@ -1,5 +1,5 @@
 function FindProxyForURL(url, host)
 {
-     return "SOCKS 42.192.130.234:7890";
+     return "PROXY 42.192.130.234:7890; DIRECT";
 }
 
