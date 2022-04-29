@@ -3,7 +3,6 @@ var proxy = "SOCKS5 42.192.130.234:7890; DIRECT";
 // PROXY 42.192.130.234:7890;
 var direct = 'DIRECT;';
 
-
 var cnips = [
   [
     16777216,
