@@ -1,5 +1,6 @@
-var proxy = "SOCKS5 42.192.130.234:7890; PROXY 42.192.130.234:7890; DIRECT";
+var proxy = "SOCKS5 42.192.130.234:7890; DIRECT";
 
+// PROXY 42.192.130.234:7890;
 var direct = 'DIRECT;';
 
 var cnips = [
